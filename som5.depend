@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1522744273 source:c:\users\somun\documents\som5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
